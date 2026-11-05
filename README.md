@@ -10,10 +10,7 @@ Using Microsoft Excel, I organized the raw dataset, created formula-driven summa
 
 The dashboard provides an overview of revenue, transaction volume, category performance, monthly trends, and regional sales distribution.
 
-## Dashboard Preview
 
-<!-- Add your dashboard screenshot here -->
-![Superstore Sales Dashboard](images/dashboard.png)
 
 ## Key Features
 
